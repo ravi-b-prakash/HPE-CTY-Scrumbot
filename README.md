@@ -4,9 +4,9 @@ The Jira Issues are written into a seperate text file.
 The text file is then mailed to the scrum-owner along with the conversation data as discussed earlier.
 
 5. Postgres DB Integration: PostgreSQL is a powerful open-source relational database management system (RDBMS). It offers robust features, scalability, and extensibility, making it a popular choice for storing and managing data.
-To integrate PostgreSQL with Botpress:
-           1.Install PostgreSQL on your server or local machine.
-           2.Create a new database for Botpress.
-           3.Configure Botpress to connect to the PostgreSQL database by updating the configuration file.
-           4.Restart Botpress to apply the configuration changes.
-           5.Use Botpress's built-in database functions or PostgreSQL libraries to execute SQL queries to extract responses and perform database operations.
+To integrate PostgreSQL with Botpress:<br>
+           >Install PostgreSQL on your server or local machine.<br>
+           >Create a new database for Botpress.<br>
+           >Configure Botpress to connect to the PostgreSQL database by updating the configuration file.<br>
+           >Restart Botpress to apply the configuration changes.<br>
+           >Use Botpress's built-in database functions or PostgreSQL libraries to execute SQL queries to extract responses and perform database operations.<br>
